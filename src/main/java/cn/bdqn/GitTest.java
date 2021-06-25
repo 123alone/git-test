@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("撒娇大手大脚啊");
         System.out.println("master test");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
